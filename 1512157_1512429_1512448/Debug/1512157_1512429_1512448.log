@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  MainFunctions.cpp
+  ExtraFunctions.cpp
+f:\mmt\project1_socket\1512157_1512429_1512448\1512157_1512429_1512448\extrafunctions.cpp(24): warning C4018: '<': signed/unsigned mismatch
+f:\mmt\project1_socket\1512157_1512429_1512448\1512157_1512429_1512448\extrafunctions.cpp(167): warning C4129: '%': unrecognized character escape sequence
+  1512157_1512429_1512448.cpp
+  Generating Code...
+  1512157_1512429_1512448.vcxproj -> F:\MMT\Project1_Socket\1512157_1512429_1512448\Debug\1512157_1512429_1512448.exe
+  1512157_1512429_1512448.vcxproj -> F:\MMT\Project1_Socket\1512157_1512429_1512448\Debug\1512157_1512429_1512448.pdb (Full PDB)
